@@ -43,8 +43,11 @@ cd food-image-classification
 Prepare your dataset:
 
 Download or organize a food image dataset.
+
 Place the dataset inside the food_data directory. Each category should be in its own subfolder within food_data.
+
 Run the script:
+
 ```
 python food_image_classification.py
 ```
