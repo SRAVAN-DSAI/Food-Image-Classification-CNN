@@ -37,7 +37,7 @@ pip install tensorflow numpy matplotlib scikit-learn seaborn
 ## Usage
 Clone the repository:
 ```
-git clone https://github.com/yourusername/food-image-classification.git
+git clone https://github.com/SRAVAN-DSAI/Food-Image-Classification-CNN
 cd food-image-classification
 ```
 Prepare your dataset:
