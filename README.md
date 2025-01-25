@@ -22,7 +22,7 @@ The script uses the first 10 food categories from the dataset for training the m
 
 ## Requirements
 
-- Python 3.x
+- Python
 - TensorFlow >= 2.0
 - Keras
 - NumPy
