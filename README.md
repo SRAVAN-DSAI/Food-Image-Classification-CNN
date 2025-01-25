@@ -51,23 +51,37 @@ python food_image_classification.py
 The script will:
 
 Load and preprocess the images.
+
 Train the CNN model.
+
 Display training and validation accuracy/loss plots.
+
 Evaluate the model on the test data and print the classification report.
+
 Show a confusion matrix of predictions.
 
-##Model Architecture
+## Model Architecture
+
 The CNN model consists of the following layers:
 
 3 convolutional layers with ReLU activation.
+
 2 max-pooling layers to downsample the feature maps.
+
 1 fully connected layer with 64 neurons and ReLU activation.
+
 A dropout layer to reduce overfitting.
+
 An output layer with softmax activation for multi-class classification.
+
 ## Results
+
 The model outputs the following:
 
 Accuracy and loss plots for both training and validation sets.
+
 Test accuracy after evaluating the model on the test dataset.
+
 A classification report that includes precision, recall, and F1-score for each class.
+
 A confusion matrix to visualize the model's performance across all categories.
